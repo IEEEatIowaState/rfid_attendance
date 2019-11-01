@@ -1,2 +1,2 @@
-# rfid_attendance
-repo for getting rfid attendance 
+# rfid_scanner
+repo for getting scanner rfid
